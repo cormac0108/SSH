@@ -1,0 +1,1 @@
+ssh root@ ipv address of your server droplet from DigitalOcean
